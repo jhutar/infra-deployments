@@ -9,6 +9,7 @@ resources:
   - monitoring-workload-logging
   - authentication
   - disable-csvcopy-for-all-cluster
+  - enable-dvo-for-all-cluster
   - horreum
 
 components:
