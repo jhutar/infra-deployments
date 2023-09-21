@@ -9,7 +9,7 @@ resources:
   - monitoring-workload-logging
   - authentication
   - disable-csvcopy-for-all-cluster
-  - horreum
+  - enable-dvo-for-all-cluster
 
 components:
   - ../../../k-components/inject-infra-deployments-repo-details
