@@ -97,4 +97,4 @@ patches:
     target:
       kind: ApplicationSet
       version: v1alpha1
-      name: horreum
+      name: ingresscontroller
